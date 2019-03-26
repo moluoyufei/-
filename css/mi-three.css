@@ -1,0 +1,40 @@
+.mi-three{
+	height: 460px;
+	width:1226px;
+	background: #00C0A5;
+	margin-left: auto;
+	margin-right: auto;
+}
+.mi-three-onee{
+	height: 459px;
+	border: 1px solid #00C0A5;
+	width:240px;
+	float: left;
+	
+	
+}
+.mi-three-onee .mi-treww-om{
+	height: 44px;
+	
+	
+	line-height: 40px;
+	
+	
+	
+}
+.mi-three-onee .mi-treww-om a{
+	display: block;
+	color: #FFF;
+	height: 44px;
+	width:240px;
+	overflow: hidden;
+	
+	}
+	.mi-three-onee .mi-treww-om a:hover{
+		background: yellow;
+		
+		}
+		
+		
+	
+	

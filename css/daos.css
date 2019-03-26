@@ -1,0 +1,176 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.mi-dao{
+	width: 1226px;
+	
+	height: 335px;
+	overflow: hidden;
+}
+.mi-dao .mi-dao-top{
+	height: 273px;
+	background: #f9f8f8;
+	margin-top: 80px;
+	
+}
+.mi-dao .mi-dao-top .mi-dao-top-a{
+	padding: 27px 0px;
+	display: block;
+	width: 1226px;
+}
+.mi-dao .mi-dao-top .mi-dao-top-a ul{
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	
+}
+.mi-dao .mi-dao-top .mi-dao-top-a ul li:first-child{
+	border-left: 0px;
+}
+.mi-dao .mi-dao-top .mi-dao-top-a ul li{
+	float: left;
+	height: 35px;
+	font-size: 16px;
+	width: 240px;
+	text-align: center;
+	
+	border-left: 1px solid #666699;
+	
+}
+.mi-dao .mi-dao-top .mi-dao-top-a ul li a{
+	display: block;
+}
+.mi-dao .mi-dao-top .mi-dao-top-a ul li a:hover{
+	color: yellow;
+}
+.mi-dao .mi-dao-top .mi-dao-top-a .mi-dao-b{
+	height: 60px;
+	
+	border-bottom: 1px solid #666699;
+}
+.mi-dao-l{
+	height: 100px;
+		
+		line-height: 10px;
+}
+.mi-dao-l img{
+	position: relative;
+	top: 10px;
+}
+.mi-dao-c{
+	height: 145px;
+	font-size: 13px;
+	line-height: 25px;
+	
+}
+.mi-dao-c ul{
+	list-style-type: none;
+}
+.mi-dao-c ul li{
+	font-size: 12px;
+	width: 60px;
+	float: left;
+	margin-right: 110px;
+}
+.mi-dao-c ul li a:hover{
+	color: #ff6700;
+}
+.mi-dao-c ul .mi-di{
+	display: list-item;
+	width: 200px;
+	float: right;
+	
+	position: relative;
+	left: 79px;
+	top:-90px;
+	font-size: 23px;
+	text-align: center;
+	color: #ff6700;
+	border-left: 1px solid #666699;
+}
+.mi-dao-c ul .mi-di .mio{
+	font-size: 12px;
+	color: #000000;
+}
+.mi-dao-c ul .mi-di .mio+p{
+	font-size: 15px;
+	
+}
+
+.mi-dao-c ul .mi-di .mio+p a{
+	font-size: 14px;
+	width: 10px;
+	height: 10px;
+	border: 2px solid #ff6700;
+}
+.mi-dao-c ul .mi-di .mio+p a:hover{
+	background: #ff6700;
+	color: #FFFFFF;
+}
+/*底部最后一部分*/
+.mi-zd{
+	width:1226px;
+	margin-left: auto;
+	margin-right: auto;
+	
+	
+}
+.mi-zd .mi-zd1{
+	height: 230px;
+	background: #f9f8f8;
+}
+.mi-zd .mi-zd1 .mi-zdt{
+	margin-top: 30px;
+}
+.mi-zd .mi-zd1 .mi-zdt .mi-zdt-a{
+	width: 60px;
+	height: 60px;
+	background: #ff6600;
+	float: left;
+}
+.mi-zd .mi-zd1 .mi-zdt .mi-zdt-a img{
+	margin-top: 10px;
+}
+.mi-zd .mi-zd1 .mi-zdt .mi-zdt-b{
+	float: left;
+	width: 1136px;
+	margin-left: 11px;
+	height: 100px;
+	line-height: 20px;
+}
+.mi-zd .mi-zd1 .mi-zdt .mi-zdt-b p{
+	font-size: 12px;
+	color: #666666;
+	 
+}
+.mi-zd .mi-zd1 .mi-zdt .mi-zdt-b p a{
+	font-size: 11px;
+	color: #666666;
+	text-align: center;
+}
+.mi-zd .mi-zd1 .mi-zdt .mi-zdt-b p a:hover{
+	color: #ff6600;
+}
+.mi-zd .mi-zd1 .mi-zdt .mi-zdt-b p span{
+	font-size: 12px;
+	
+}
+.mi-zd .mi-zd1 .mi-zdt .mi-zdt-c{
+	
+	margin-left: 60px;
+	
+}
+.mi-zd .mi-zd1 .mi-zdt .mi-zdt-c a img{
+	margin-top: 5px;
+	margin-left: 12px;
+}
+.mi-zd .mi-zd1 .mi-zdt .mi-zdt-d{
+	
+	margin-left: 490px;
+	margin-top: 35px;
+	color:#CCCCCC;
+	font-size: 21px;
+	
+}
+

@@ -1,0 +1,204 @@
+.mi-s{
+	overflow: hidden;
+	width:1226px;
+	
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+.mi-s .mi-s1{
+	width:1226px;
+	height: 15px;
+	
+}
+.mi-s .mi-s1 .mi-si li{
+	width: 1160px;
+	font-size: 22px;
+}
+.mi-s .mi-s1 ul{
+	list-style: none;
+}
+.mi-s .mi-s1 ul li{
+	float: left;
+}
+.mi-s .mi-s1 .mi-so li{
+	border: 1px solid;
+	width: 30px;
+	text-align: center;
+}
+.mi-s .mi-s2{
+	
+	height: 300px;
+}
+.mi-s .mi-s2 ul{
+	list-style: none;
+}
+.mi-s .mi-s2 ul li{
+	background: #FFF;
+	width: 235px;
+	height: 300px;
+	float: left;
+	margin-right: 10px;
+	text-align: center;
+	
+}
+.mi-s .mi-s2 ul li img{
+	
+	margin-top: 45px;
+	
+}
+.mi-s .mi-s2 ul li  a{
+	color: black;
+	font-size: 12PX;
+}
+.mi-s .mi-s2 ul li .s1-mi{
+	font-size: 14PX;
+	color: #ff6600;
+	
+}
+.mi-s .mi-s2 ul li .s2-mi{
+	color:#969;
+	font-size: 13PX;
+}
+/*11*/
+.mi-yi{
+	width:1226px;
+	
+	margin-left: auto;
+	margin-right: auto;
+	height: 80px;
+	
+	font-size: 26px;
+	line-height: 100px;
+}
+.mi-ye{
+	width:1226px;
+	
+	margin-left: auto;
+	margin-right: auto;
+	height: 415px;
+	
+}
+.mi-ye ul{
+	list-style: none;
+	margin: 0px auto;
+}
+.mi-ye ul li{
+	
+	width: 296px;
+	height: 415px;
+	background: #FFF;
+	float: left;
+	
+	margin-right: 8px;
+	font-size: 12px;
+	color: #669966;
+	
+	
+	
+}
+.mi-ye ul li p {
+	margin: 0px auto;
+	width: 242px;
+	/*border: 1px solid;*/
+	margin-bottom: 20px;
+	
+	
+	
+}
+.mi-ye .ye1aa{
+	margin-bottom: 10px;
+}
+.mi-ye .ye1 a{
+	color: #000000;
+	font-size: 14px;
+	width: 200px;
+	height: 415px;
+	margin-top: 10px;
+}
+.mi-ye .ye13 a{
+	font-size: 14px;
+	color: #000000;
+	
+	
+}
+.mi-ye ul  .ye13 span{
+	color: #ff6600;
+	font-size: 14px;
+}
+
+
+/*第十二*/
+.mi-p{
+	width:1226px;
+	
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+.mi-pi{
+	height: 80px;
+}
+.mi-pi ul{
+	list-style: none;
+	line-height: 80px;
+}
+.mi-pi ul li{
+	float: left;
+	margin-right: 10px;
+	font-size: 20px;
+}
+.mi-pi ul .mi-pin{
+	float: right;
+	font-size: 18px;
+	
+}
+
+.mi-pi ul .mi-pin img{
+	position: relative;
+	top: 10px;
+}
+.spo{
+	overflow: hidden;
+	width:1226px;
+	
+	margin-left: auto;
+	margin-right: auto;
+}
+.spo .spo-mo ul{
+	list-style: none;
+	text-align: center;
+	line-height: 50px;
+}
+.spo .spo-mo ul li{
+	width: 296px;
+	background: #FFFFFF;
+	float: left;
+	margin-right: 10px;
+}
+.spo .spo-mo ul li img{
+	width: 296px;
+	height: 180px;
+}
+ .spo .spo-mo ul li a{
+ 	color: #000000;
+ 	
+ }
+.spo .spo-mo ul li .mi-sp{
+	color: #CCCCCC;
+	font-size: 14px;
+}
+.spo .spo-mo ul li .mi-tut{
+	width: 25px;
+	height: 15px;
+	border: 3px solid #FFFFFF;
+	border-radius: 25px;
+	position: relative;
+	top: -165px;
+	left: -110px;
+}
+
+.spo .spo-mo ul li .mi-tut:hover{
+	background: yellow;
+	border: 3px solid yellow;
+}

@@ -1,0 +1,81 @@
+#mi9{
+	
+	background: url(../img/log.jpg) no-repeat;
+}
+body{
+	background: #f9f8f8;
+}
+.mi-top{
+	height: 40px;
+	color: #b0b0b0;
+	background: #333;
+	font-size: 13px;
+	
+}
+.mi-toponw{
+	width: 1226px;
+	margin-left: auto;
+	margin-right: auto;
+	background: #333333;
+	
+}
+.mi-topone{
+	line-height: 40px;
+	position: absolute;
+	background: #333333;
+	
+}
+a{
+	text-decoration: none;
+	color:#b0b0b0;
+}
+.mi-topone a{
+	color: #B0B0B0;
+	text-decoration: none;
+	
+	}
+	.mi-topone a:hover{
+		color: #FFFFFF;
+		}
+		/* 结束头右 */
+.mi-top .mi-toptow{
+	width: 100px;
+	float: right;
+	font-size: 14px;
+	background-color:#424242;
+	color: #b0b0b0;
+	text-align: center;
+	
+	.mi-two-one1-a span
+	
+ }
+ .mi-toptow{
+	 position: relative;
+	 line-height: 40px;
+	 background: #000000;
+	 
+ }
+ .mi-toptow a{
+	 text-decoration: none;
+	 color:#b0b0b0;
+ }
+ .mi-toptow a:hover{
+ 	color:#ff6700 ;
+ 	background: #FFFFFF;
+ 	display: block;
+ }
+ .mi-to{
+	 margin:0px 125px;
+	
+ }
+ .mi-tot{
+	 float: right;
+	 color: #b0b0b0;
+	 line-height: 40px;
+	 margin-left: 6px;
+	 
+	 }
+.mi-tot a:hover{
+	color:#FFFFFF ;
+}	 
+	  

@@ -1,0 +1,172 @@
+.mi-w{
+	
+	width:1226px;
+	
+	margin-left: auto;
+	margin-right: auto;
+	
+	
+}
+.mi-w img{
+	height: 115px;
+	width: 1215px;
+}
+.mi-liu{
+	width:1226px;
+	
+	margin-left: auto;
+	margin-right: auto;
+	height: 60px;
+	margin-top: 25px;
+	
+}
+.mi-liu-top{
+	width:1226px;
+	height: 20px;
+	background: #fbf7f7;
+}
+.mi-liu-top .mi-liu-top1{
+	float: left;
+	width: 1100px;
+	height:30px ;
+	background: #f9f8f8;
+	
+}
+.mi-liu-top .mi-liu-top2{
+	width: 90px;
+	
+}
+.mi-liu-top .mi-liu-top2 h3{
+	float: right;
+	
+	
+}
+.mi-tu{
+	height: 664px;
+	margin-top: 8px;
+	width: 234px;
+	
+	float: left;
+}
+.mi-tu .mi-tu-1{
+	height: 614px;
+	width: 234px
+	
+}
+.mi-tu-2{
+	width: 987px;
+	
+}
+.mi-tu-2 ul{
+	list-style: none;
+	
+}
+.mi-tu-2 ul li{
+	height: 298px;
+	text-align: center;
+	background: #FFFFFF;
+	width: 228px;
+	margin-bottom: 13px;
+	float: left;
+	
+	margin-left: 16px;
+	
+}
+.mi-tu-2 ul li a{
+	
+	color:black ;
+	font-size:14px ;
+}
+.mi-tu-2 ul li p{
+	
+	font-size:12px ;
+	color: #959595;
+	line-height: 22px;
+}
+.mi-tu-2 ul li p span{
+	color: red;
+	font-size: 14px;
+}
+.mi-tu-2 ul li .mi-xx{
+	width: 60px;
+	height: 20px;
+	background: chartreuse;
+	color: #FFF;
+	position: relative;
+	bottom: 237px;
+	left: 78px;
+} 
+.mi-tu-2 ul li .xx{
+	background: red;
+}
+.mi-t1u{
+	width: 200px;
+	margin-top: 30px;
+}
+
+/*第六部分*/
+.mi-liu-top .ddd{
+	
+	width: 923px;
+}
+.mi-liu-top .ddd a{
+	color: #000000;
+	font-size: 20px;
+}
+.mi-liu .mim1{
+	width: 215px;
+	padding-right:40px;
+	
+}
+
+.mi-liu .mim1 a{
+	margin-left: 10px;
+	color: #000000;
+	font-weight: 500px;
+	
+}
+#miii{
+	background: #f9f8f8;
+}
+.mi-ji .mi-jii{
+	
+	margin-bottom: 16px;
+	height: 140px;
+	background: #FFF;
+	
+}
+
+.mi-ji .mi-j{
+	width: 80px;
+	line-height: 30px;
+	position: relative;
+	color: black;
+	top: 40px;
+		
+}
+
+.mi-ji img{
+	width: 90px;
+	margin-top: -20px;
+	margin-right: -80px;
+	
+	
+}
+.mi-ji .mi-j2{
+	color: red;
+}
+.mi-ji .mi-jii .mi-j3{
+	color: #665E57;
+}
+.mi-ji .mi-jii p .mijp{
+	width: 50px;
+	margin-top: -10px;
+}
+/*第六部分开始*/
+
+
+.mi-liu-top .miml1{
+	width: 263px;
+	
+}
+/*第六部分结束*/

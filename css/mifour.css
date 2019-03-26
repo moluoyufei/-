@@ -1,0 +1,76 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.mi-for{
+	height: 200px;
+	margin-top: 13px;
+	
+	
+}
+.mi-for1{
+	overflow: hidden;
+	width:1226px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+.ds{
+	width: 250px;
+	float: left;
+}
+.ds1{
+	width: 926px;
+}
+.mi{
+	width: 245px;
+	
+	font-size: 10px;
+	height: 170px;
+	background: rosybrown;
+	
+}
+.mi ul{
+	font-weight: 600;
+	list-style: none;
+}
+.mi ul li{
+	width: 62px;
+	float: left;
+	margin-top: 16px;
+	margin-left: 13px;
+	text-align: center;
+	
+}
+
+.mi a{
+	width: 62px;
+	color: #FFF;
+	
+	
+	
+}
+.mi a:hover{
+	
+	color: #F5F5F5;
+	
+}
+.ds1{
+	width:974px;
+	
+}
+.ds1 ul{
+	list-style: none;
+}
+.ds1 ul li{
+	width: 300px;
+	float: left;
+	height: 170px;
+	margin-left: 24px;
+}
+.ds1 ul li img{
+	width: 300px;
+	height: 170px;
+	
+	
+}
